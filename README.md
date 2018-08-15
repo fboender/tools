@@ -28,4 +28,6 @@ documented particularly well.
   `mysql` schema.
 * `trac_update_url.py`: Search and replace a URL with a new URL in a Trac
   database.
+* `openvpn_lastlogin.py`: Scan OpenVPN log file and easy-rsa index.txt to see
+  when users have last logged in with OpenVPN.
 * `php_logcolor.py`: Show colorized PHP log files.
